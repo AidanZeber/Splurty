@@ -45,3 +45,8 @@ gem 'rails_12factor', group: :production
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# Use bootstrap-sass 
+# gem 'twitter bootstrap'
+gem 'bootstrap-sass', '~> 3.3.5.1'
+gem 'sprockets', '2.11.0'
